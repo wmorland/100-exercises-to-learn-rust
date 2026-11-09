@@ -1,2 +1,4 @@
 [tools]
 rust = "latest"
+# The course's exercise runner (`wr`), only needed in this repo.
+"cargo:workshop-runner" = "latest"
